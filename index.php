@@ -162,7 +162,7 @@
 				</div>
 			</div>
             <div class ="row">
-				<div class ="col-12 about_me_para">
+				<div class ="col-12 about_me_para top_border_projects">
 					<div class ="description">
 						<h3 class = "change_font">Testimonies</h3>
 						<p class ="shrink_para">
