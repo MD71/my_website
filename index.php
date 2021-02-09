@@ -191,7 +191,7 @@
             <h4 class ="change_font_projects"><a href = "https://mikedaniel.co/Lisa_Bakery-master/index.html" target="_blank" >Darji Desserts</a></h4>
 
 <p class ="shrink_para">
-Bakery Website for small business    
+Bakery Website for small business  
 </p>
 </div>
 </div>
