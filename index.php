@@ -156,7 +156,7 @@
 					<div class ="description">
 						<h3 class = "change_font">About me</h3>
 						<p class ="shrink_para">
-                Front End developer who likes to help small businesses get online. I provide online hosting and assistance with setting up your domain. I'll have many years in customer service I promise I'll make the complicated stuff as painless as possible. I also create full websites. Reach out to me on pricing, as everybody has different needs!
+                Front End developer who likes to help small businesses get online. I provide online hosting and assistance with setting up your domain. I have many years in customer service so I promise I'll make the complicated stuff as painless as possible. I also create full websites. Reach out to me on pricing, as everybody has different needs!
 
 						</p>
 					</div>
