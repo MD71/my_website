@@ -1,0 +1,33 @@
+.main_header{
+    color:#5BD4C9;
+    margin-top:330px;
+}
+
+.headers{
+    font-weight: bold;
+    color:#5BD4C9;
+    margin-top:60px;
+
+}
+.footer {
+    background-color: #5BD4C9;
+    padding:30px;
+    
+}
+.mobile {
+    background:
+        /* top, transparent red, faked with gradient */
+        linear-gradient(rgba(0, 0, 0, .30),
+            rgba(0, 0, 0, .30)),
+        /* bottom, image */
+        url(photos/test.JPG);
+    /* The image used */
+
+    /* Full height */
+    height: 600px;
+    /* Create the parallax scrolling effect */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 60px;;
+}
