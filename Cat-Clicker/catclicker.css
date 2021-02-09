@@ -1,0 +1,29 @@
+.container-fluid{
+  background-color: black;
+  font-size: 2rem;
+}
+.header {
+  color:#0099ff;
+}
+#my-elem {
+  font-size: 3em;
+  font-weight: bold;
+  color:#00cc66;}
+#dog img {
+  border-radius: 50%;
+  border-style: solid;
+  border-color:black;
+  -webkit-box-shadow: -1px -8px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: -1px -8px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: -1px -8px 5px 0px rgba(0,0,0,0.75);
+}
+#my-elem2 {
+  font-size: 3em;
+  font-weight: bold;
+  color:#0099ff;
+}
+#cat2 img {
+  border-radius: 50%;
+  border-style: solid;
+  border-color:black;
+}

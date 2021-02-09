@@ -1,0 +1,82 @@
+body{
+	width: 100%;
+	margin:0px;
+}
+
+.container {
+	width: 100%;
+	margin: 0 auto;
+	font-family: arial;
+}
+.header{
+	text-align: center;
+}
+.Top{
+	text-align: center;
+	background-color: #33374f;
+	color:white;
+	margin: 0 auto;
+	padding:20px;
+}
+form {
+  max-width: 350px;
+	margin: 0 auto;
+  border-radius: 8px;
+}
+.phone{
+	display:block;
+	background-color: gray;
+	margin: 8px auto;
+}
+label{
+	display: block;
+}
+fieldset{
+	border:none;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="date"],
+input[type="datetime"],
+input[type="email"],
+input[type="number"],
+input[type="search"],
+input[type="tel"],
+input[type="time"],
+input[type="url"],
+textarea {
+  background: rgba(255,255,255,0.1);
+  border: none;
+  font-size: 16px;
+  height: auto;
+  margin: 0;
+	margin-top: 5px;
+  outline: 0;
+  padding: 15px;
+  width: 100%;
+	max-width: 300px;
+  background-color: #e8eeef;
+  color: #8a97a0;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+  margin-bottom: 30px;
+	border-radius: 5px;
+}
+select {
+	-webkit-appearance:none;
+	background: rgba(255,255,255,0.1);
+	border: none;
+	font-size: 16px;
+	height: auto;
+	margin: 0;
+	margin-top: 5px;
+  outline: 0;
+  padding: 15px;
+	width: 330px;
+  background-color: #e8eeef;
+  color: #8a97a0;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+  margin-bottom: 30px;
+	border-radius: 5px;
+
+}
