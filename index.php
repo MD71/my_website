@@ -185,19 +185,18 @@
     <div class ="col-12 top_border_projects">
         <div class ="description">
             <h3 class = "change_font">Projects</h3>
-            <h4 class ="change_font_projects"><a href = "https://mikedaniel.co/Random-Quote-Generator/Unit%201/a_random_quote_generator-v1/index.html" target="_blank">Random Quote Generator</a></h4>
-            
+            <div class ="row">
+    <div class ="col-12 ">
+        <div class ="project_type">
+            <h4 class ="change_font_projects"><a href = "https://mikedaniel.co/Lisa_Bakery-master/index.html" target="_blank" >Darji Desserts</a></h4>
+
 <p class ="shrink_para">
-Bakery Shope
+Bakery Website for small business    
 </p>
 </div>
 </div>
 </div>
-<div class ="row">
-    <div class ="col-12 top_border_projects">
-        <div class ="description">
-            <h3 class = "change_font">Projects</h3>
-            <h4 class ="change_font_projects"><a href = "https://mikedaniel.coLisa_Bakery-master/index.html" target="_blank">Darji Desserts</a></h4>
+            <h4 class ="change_font_projects"><a href = "https://mikedaniel.co/Random-Quote-Generator/Unit%201/a_random_quote_generator-v1/index.html" target="_blank">Random Quote Generator</a></h4>
             
 <p class ="shrink_para">
 An app that displays random famous quotes each time a button is clicked. 
