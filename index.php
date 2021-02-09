@@ -161,6 +161,17 @@
 					</div>
 				</div>
 			</div>
+            <div class ="row">
+				<div class ="col-12 about_me_para">
+					<div class ="description">
+						<h3 class = "change_font">Testimonies</h3>
+						<p class ="shrink_para">
+                            I was looking to create a website for my business but wasn’t sure how to start or what to even do. I was lucky enough to know Mike and know that he is very talented in computer programming. I showed him an example of a website I liked and he went above and beyond! Mike walked me through the whole process and was communicative the entire time. Mike set me up with the proper domain; told me exactly where to go and how to do it. I sent him my pictures and information I wanted to convey about my business. He took his time to look over my content and give me awesome feedback about what will work with a Mobile App as well as Desktop. Something I really wanted was a pop out window that gives the customer the ability to email me directly. I thought this was a big feature I was asking for but Mike made it happen! After my site was launched, I’ve seen a greater increase in activity on my social platforms and also have received great feedback from my customers about my site; it is fun and easy to navigate. Mike is amazing and very professional with a hundred percent focus on the customer. I definitely recommend Mike to anyone that is looking to create a website for their brand! 
+                            Thanks again Mike!						
+                        </p>
+					</div>
+				</div>
+			</div>
 			<div class ="row">
 				<div class ="col-12 top_border_projects">
 					<div class ="description">
