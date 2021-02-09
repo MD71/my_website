@@ -63,8 +63,9 @@
 							<p class= "social_contact"><a href="https://twitter.com/_Mikedaniel?lang=en"target="_blank" ><img src="Project_Images/twitter.svg" height="40px" width="40px"></a></p>
 							<p class= "social_contact""><a href=" https://www.linkedin.com/in/mikedaniel-ocasio-b97205bb/"target="_blank" ><img src="Project_Images/linkedin.svg" height="40px" width="40px"></a></p>
 						</span>
-						<p class="About_Me"> Front End developer who likes to help small businesses get online. I provide online hosting and assistance with setting up your domain. I'll have many years in customer service I promise I'll make the complicated stuff as painless as possible. 
-                        I also create full websites. Reach out to me on pricing, as everybody has different needs!
+						<p class="About_Me">Driven tech professional with technical and leadership skills. I am a Front End Web Developer
+							open to new opportunities. I have three years of experience managing a technical support team and six years
+							of troubleshooting Apple computers and small devices.
 						</p>
 						<h3 class ="certs_skills">Skills</h3>
 						<div class ="row skills_background">
@@ -155,7 +156,8 @@
 					<div class ="description">
 						<h3 class = "change_font">About me</h3>
 						<p class ="shrink_para">
-							I'm a Front End Web Developer, life-long learner, leader, and traveler. I currently hold a role in Linux Support and I've previously worked for Apple in a leadership position. I'm a self taught Web Developer and have learned from resources such as <a href= "https://teamtreehouse.com/">Treehouse</a>, <a href= "https://www.udacity.com/">Udacity</a> and my favorite <a href = "https://www.amazon.com/gp/product/1118531647/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=wsvincent-20&creative=9325&linkCode=as2&creativeASIN=1118531647&linkId=4d17771052499f2176cdebd85793bf9d">JavaScript Book</a>. If you'd like to see my most current projects please check out my <a href="https://github.com/MD71">GitHub.</a>
+                Front End developer who likes to help small businesses get online. I provide online hosting and assistance with setting up your domain. I'll have many years in customer service I promise I'll make the complicated stuff as painless as possible. I also create full websites. Reach out to me on pricing, as everybody has different needs!
+
 						</p>
 					</div>
 				</div>
